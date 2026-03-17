@@ -1,0 +1,36 @@
+{
+  "full_name": "Aaron Campecino",
+  "credentials": "test",
+  "professional_title": "Emergency Medicine Physician, Author, Media Personality",
+  "years_experience": 0,
+  "book_title": "",
+  "topics": [
+    {
+      "topic": "Code Red Leadership: Crisis Decisions Under Pressure",
+      "description": "Drawing from 30+ years of ER decision-making, this session delivers a battlefield-tested framework for making high-stakes leadership calls fast, clearly, and confidently when it matters most.",
+      "audience": "Senior leaders, executives, and managers in high-pressure industries"
+    },
+    {
+      "topic": "Flatline to Frontline: Resurrecting Team Resilience",
+      "description": "Using real ER case studies, this talk shows leaders how to rebuild burned-out, overwhelmed teams and restore peak performance when the pressure never stops.",
+      "audience": "HR leaders, team managers, and organizational development professionals"
+    }
+  ],
+  "target_industries": [
+    "hello niche"
+  ],
+  "target_geography": "US",
+  "min_honorarium": 5000,
+  "discussion_points": [
+    "Code Red Leadership: Crisis Decisions Under Pressure",
+    "Flatline to Frontline: Resurrecting Team Resilience"
+  ],
+  "linkedin": "",
+  "website": "",
+  "speaker_sheet": "",
+  "notes": "",
+  "conference_year": 2026,
+  "conference_tier": "state",
+  "zip_code": "90210",
+  "bio": "30+ years frontline ER experience. Published author of Never Let Them See You Sweat. Extensive media presence across TV, print, and digital."
+}

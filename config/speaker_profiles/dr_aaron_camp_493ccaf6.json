@@ -1,0 +1,35 @@
+{
+  "full_name": "Dr. Aaron Camp",
+  "credentials": "Emergency Medicine Physician, Author, Media Personality",
+  "professional_title": "",
+  "years_experience": 0,
+  "book_title": "",
+  "topics": [
+    {
+      "topic": "Triage Your Life: ER Strategies for Success",
+      "description": ""
+    },
+    {
+      "topic": "Never Let Them See You Sweat: Performing Under Pressure",
+      "description": ""
+    },
+    {
+      "topic": "Women in Medicine: Breaking Barriers in Emergency Care",
+      "description": ""
+    }
+  ],
+  "target_industries": [
+    "Health Tech"
+  ],
+  "target_geography": "US",
+  "min_honorarium": 5000,
+  "discussion_points": [
+    "Triage Your Life: ER Strategies for Success",
+    "Triage Your Life",
+    "Never Let Them See You Sweat: Performing Under Pressure",
+    "Never Let Them See You Sweat",
+    "Women in Medicine: Breaking Barriers in Emergency Care",
+    "Women in Medicine"
+  ],
+  "bio": "30+ years frontline ER experience. Published author of Never Let Them See You Sweat. Extensive media presence across TV, print, and digital."
+}

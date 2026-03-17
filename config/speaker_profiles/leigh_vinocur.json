@@ -1,0 +1,53 @@
+{
+  "full_name": "Dr. Leigh Vinocur",
+  "credentials": "MD, MS, FACEP",
+  "professional_title": "Emergency Medicine Physician, Author, Media Personality",
+  "years_experience": 30,
+  "book_title": "Never Let Them See You Sweat",
+  "topics": [
+    {
+      "topic": "Triage Your Life: ER Strategies for Success",
+      "description": "Using emergency medicine protocols as metaphors for making life decisions, managing chaos, setting priorities, and building resilience"
+    },
+    {
+      "topic": "Never Let Them See You Sweat: Performing Under Pressure",
+      "description": "Based on her book; techniques from the ER for handling high-stakes situations in business, leadership, and life"
+    },
+    {
+      "topic": "Women in Medicine: Breaking Barriers in Emergency Care",
+      "description": "Her experience as a woman in a male-dominated field, advocacy, and mentorship"
+    }
+  ],
+  "discussion_points": [
+    "Personal Triage framework",
+    "ER decision-making under pressure",
+    "Burnout and resilience in healthcare",
+    "Women in emergency medicine",
+    "Media appearances and health communication",
+    "Opioid crisis frontline experience",
+    "Telehealth evolution",
+    "Patient advocacy",
+    "Medical education reform",
+    "Work-life integration for physicians",
+    "Crisis leadership"
+  ],
+  "target_industries": [
+    "Healthcare",
+    "Pharma",
+    "Insurance",
+    "Corporate Wellness",
+    "Medical Associations",
+    "Government/Public Health",
+    "Media"
+  ],
+  "target_geography": "National (US)",
+  "min_honorarium": 5000,
+  "unique_differentiators": [
+    "30 years frontline ER experience",
+    "Published author (Never Let Them See You Sweat)",
+    "Extensive media: TV, print, digital",
+    "Personal Triage proprietary framework",
+    "MD + MS + FACEP triple credentials",
+    "Relatable ER stories that translate to any audience"
+  ]
+}

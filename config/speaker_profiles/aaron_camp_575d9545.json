@@ -1,0 +1,41 @@
+{
+  "full_name": "Aaron Camp",
+  "credentials": "",
+  "professional_title": "demo",
+  "years_experience": 0,
+  "book_title": "",
+  "topics": [
+    {
+      "topic": "AI Adoption Without the Chaos: A Leader's Roadmap",
+      "description": "Practical frameworks for integrating AI into your organization responsibly and effectively. Learn how to lead teams through AI transformation without losing trust or momentum.",
+      "audience": "C-suite executives, operations leaders, and team managers"
+    },
+    {
+      "topic": "Change Management in the Age of Constant Disruption",
+      "description": "Old change management models were built for predictable transitions \u2014 today's environment demands something faster and more human-centered. This session reimagines change for modern organizations.",
+      "audience": "Operations leaders, project managers, and organizational development professionals"
+    },
+    {
+      "topic": "Mental Resilience as a Leadership Superpower",
+      "description": "The most effective leaders are not the ones who avoid hard moments \u2014 they are the ones who bounce back faster. Build the mental resilience framework elite performers use.",
+      "audience": "Leaders at all levels, high-performance teams, and professional development audiences"
+    }
+  ],
+  "target_industries": [
+    "123"
+  ],
+  "target_geography": "US",
+  "min_honorarium": 5000,
+  "discussion_points": [
+    "AI Adoption Without the Chaos: A Leader's Roadmap",
+    "Change Management in the Age of Constant Disruption",
+    "Mental Resilience as a Leadership Superpower"
+  ],
+  "linkedin": "",
+  "website": "demo",
+  "speaker_sheet": "",
+  "notes": "ad\n",
+  "conference_year": 2026,
+  "conference_tier": "national",
+  "bio": "demo"
+}
